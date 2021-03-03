@@ -1,0 +1,170 @@
+body{
+	background: #E0E4EE;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background: #405D98;
+	height: 90px;
+	width: 100%; 
+}
+.header-left{
+	font: bold;
+	font-size: 40px;
+	position: absolute;
+	top: 20px;
+	left: 140px;
+	color: #fff;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+.header-right-email{
+	position: absolute;
+	right: 480px;
+	top: 15px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #fff;
+}
+.header-right-pass{
+	position: absolute;
+	right: 343px;
+	top: 15px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #fff;
+}
+.header-right{
+	position: absolute;
+	right: 90px;
+	top:36px;
+}
+.header-right-input-email{
+	width: 150px;
+	height: 25px;
+	border: .5px solid black;
+}
+.header-right-input-password{
+	width: 150px;
+	height: 25px;
+	border: .5px solid black;
+	margin-left: 5px;
+}
+.header-right-input-submit{
+	height: 25px;
+	background: #215c;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+.header-right-input-submit:hover{
+	height: 25px;
+	background: #215cbc;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+.forgotten{
+	color: #fff;
+	text-decoration: none;
+	position: relative;
+	top: 25px;
+	left: -200px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+.forgotten:hover{
+	text-decoration: underline;
+}
+.left{
+	width: 55%;
+	position: absolute;
+	top: 15%;
+	left: 140px;
+}
+.body-left{
+	font-size: 20px;
+	width: 300px;
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #133C62;
+}
+img{
+	margin: 120px 0px 0px 150px;
+}
+.right{
+	width: 45%;
+	position: absolute;
+	top: 16%;
+	left: 58%;
+}
+.span1{
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #000000;
+	font-size: 40px;
+
+}
+.span2{
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #373737;
+	font-size: 20px;
+	
+}
+.input-first{
+	height: 30px;
+	width: 180px;
+	border-radius: 3px;
+	border: 1px solid gray;
+}
+.input-email{
+	height: 30px;
+	width: 365px;
+	border-radius: 3px;
+	border: 1px solid gray;
+}
+.input-password{
+	height: 30px;
+	width: 365px;
+	border-radius: 3px;
+	border: 1px solid gray;
+}
+.birthday{
+	font-size: 18px;
+	font-family: Helvetica, Arial, Sans-serif;
+	color: #3C3033;
+}
+select{
+	height: 30px;
+	width: 55px;
+	padding: 6px;
+
+}
+a{
+	text-decoration: none;
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 12px;
+}
+.Signup{
+	height: 28px;
+	width: 95px;
+	color: #fff;
+	background: #609421;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.Signup:hover{
+	height: 28px;
+	width: 95px;
+	color: #fff;
+	background: #788763;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.byclick{
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+.create{
+	font-size: 12px;
+	font-family: Helvetica, Arial, Sans-serif;
+}
